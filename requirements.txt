@@ -1,3 +1,4 @@
+pip>=25.2
 streamlit==1.25.0
 torch==2.2.0
 ultralytics==8.0.205
@@ -11,3 +12,4 @@ pygments==2.19.2
 rich==14.1.0
 markdown-it-py==4.0.0
 mdurl==0.1.2
+
