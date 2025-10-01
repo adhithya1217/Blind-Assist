@@ -6,11 +6,12 @@ transformers
 soundfile
 moviepy
 numpy>=1.26.1,<2
-opencv-python
+opencv-python==4.12.0
 pydub
 pillow>=11.3.0
 pandas
 packaging>=25.0
+
 
 
 
