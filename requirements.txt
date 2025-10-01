@@ -1,16 +1,17 @@
 pip>=25.2
-streamlit==1.25.0
+streamlit>=1.30.0
 torch
 ultralytics
 transformers
 soundfile
 moviepy
-numpy
+numpy>=1.26.1,<2
 opencv-python
 pydub
-pillow
+pillow>=11.3.0
 pandas
-packaging
+packaging>=25.0
+
 
 
 
