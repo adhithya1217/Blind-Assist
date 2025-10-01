@@ -1,13 +1,16 @@
 pip>=25.2
 streamlit==1.25.0
 torch==2.8.0
-ultralytics>=8.1.0
-transformers>=4.35.0
-soundfile>=0.12.1
-moviepy>=1.0.3
-numpy>=1.26.1
-opencv-python>=4.8.1
+ultralytics>=8.3.204
+transformers>=4.56.2
+soundfile>=0.13.1
+moviepy>=2.2.1
+numpy>=2.3.3
+opencv-python>=4.12.0
 pydub>=0.25.1
+pillow>=10.0.0
+pandas>=2.3.3
+packaging>=23.2
 
 
 
