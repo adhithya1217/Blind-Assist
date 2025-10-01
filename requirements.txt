@@ -1,0 +1,9 @@
+streamlit==1.25.0
+torch>=2.0.0
+ultralytics==8.0.205
+transformers>=4.35.0
+soundfile>=0.12.1
+moviepy>=1.0.3
+numpy>=1.24.0
+opencv-python>=4.8.0
+pydub>=0.25.1
